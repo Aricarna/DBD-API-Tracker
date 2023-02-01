@@ -1,0 +1,14 @@
+{
+    "id": "privacy_mobile_asia",
+    "language": [
+        "en"
+    ],
+    "needAcceptance": true,
+    "platform": [
+        "ios",
+        "android"
+    ],
+    "sku": [
+        "asia"
+    ]
+}
