@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "Blood_Echo",
+            "id": "Flashbang",
             "bloodpointValue": 100000,
             "unique": false,
             "purchased": false,
@@ -45,7 +45,7 @@
             ]
         },
         {
-            "id": "Desperate_Measures",
+            "id": "Lethal_Pursuer",
             "bloodpointValue": 100000,
             "unique": false,
             "purchased": false,
@@ -89,7 +89,7 @@
             ]
         },
         {
-            "id": "Hex:_Face_the_Darkness",
+            "id": "Merciless_Storm",
             "bloodpointValue": 100000,
             "unique": false,
             "purchased": false,
@@ -133,7 +133,7 @@
             ]
         },
         {
-            "id": "Quick_Gambit",
+            "id": "Reassurance",
             "bloodpointValue": 100000,
             "unique": false,
             "purchased": false,
@@ -177,6 +177,6 @@
             ]
         }
     ],
-    "startDate": "2023-02-15T00:00:00",
-    "endDate": "2023-02-21T23:59:59"
+    "startDate": "2023-02-22T00:00:00",
+    "endDate": "2023-02-28T23:59:59"
 }
