@@ -84,6 +84,60 @@
             },
             "Priority": "102",
             "StartDate": "2023-01-31T16:00:00"
+        },
+        {
+            "Description": "COMMUNITY",
+            "EndDate": "2023-03-03T16:00:00",
+            "MapsWeight": {
+                "Ind_CoalTower": "2075"
+            },
+            "Priority": "103",
+            "StartDate": "2023-02-23T16:00:00"
+        },
+        {
+            "Description": "COMMUNITY",
+            "EndDate": "2023-03-03T16:00:00",
+            "MapsWeight": {
+                "Jnk_Scrapyard": "2075"
+            },
+            "Priority": "104",
+            "StartDate": "2023-02-23T16:00:00"
+        },
+        {
+            "Description": "COMMUNITY",
+            "EndDate": "2023-03-03T16:00:00",
+            "MapsWeight": {
+                "Jnk_GasStation": "2075"
+            },
+            "Priority": "105",
+            "StartDate": "2023-02-23T16:00:00"
+        },
+        {
+            "Description": "COMMUNITY",
+            "EndDate": "2023-03-03T16:00:00",
+            "MapsWeight": {
+                "Asy_Chapel": "2075"
+            },
+            "Priority": "106",
+            "StartDate": "2023-02-23T16:00:00"
+        },
+        {
+            "Description": "COMMUNITY",
+            "EndDate": "2023-03-03T16:00:00",
+            "MapsWeight": {
+                "Kny_Cottage": "2075"
+            },
+            "Priority": "107",
+            "StartDate": "2023-02-23T16:00:00"
+        },
+        {
+            "Description": "COMMUNITY",
+            "EndDate": "2023-03-03T16:00:00",
+            "MapsWeight": {
+                "Ukr_Saloon": "2075"
+            },
+            "Priority": "108",
+            "StartDate": "2023-02-23T16:00:00"
         }
     ]
 }

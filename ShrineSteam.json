@@ -1,7 +1,7 @@
 {
     "items": [
         {
-            "id": "Flashbang",
+            "id": "Ace_in_the_Hole",
             "bloodpointValue": 100000,
             "unique": false,
             "purchased": false,
@@ -45,7 +45,7 @@
             ]
         },
         {
-            "id": "Lethal_Pursuer",
+            "id": "Alert",
             "bloodpointValue": 100000,
             "unique": false,
             "purchased": false,
@@ -89,7 +89,7 @@
             ]
         },
         {
-            "id": "Merciless_Storm",
+            "id": "Beast_of_Prey",
             "bloodpointValue": 100000,
             "unique": false,
             "purchased": false,
@@ -133,7 +133,7 @@
             ]
         },
         {
-            "id": "Reassurance",
+            "id": "Hex:_Huntress_Lullaby",
             "bloodpointValue": 100000,
             "unique": false,
             "purchased": false,
@@ -177,6 +177,6 @@
             ]
         }
     ],
-    "startDate": "2023-02-22T00:00:00",
-    "endDate": "2023-02-28T23:59:59"
+    "startDate": "2023-03-01T00:00:00",
+    "endDate": "2023-03-07T23:59:59"
 }
