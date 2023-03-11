@@ -1,10 +1,10 @@
 {
-    "coreVersion": "16.8.1-dbd.5",
+    "coreVersion": "16.21.3-dbd.5",
     "globalFeature": "on",
     "kraken": {
         "running": true
     },
     "publicIp": "None",
-    "krakenVersion": "v1.973.1-8",
+    "krakenVersion": "v1.993.1-9",
     "chartVersion": "1.0.0"
 }
